@@ -10,9 +10,9 @@ Example Playbook
 
     - hosts: servers
       roles:
-         - { role: jmatt.cloud-packages }
+         - { role: lsst-sqre.cloud-packages }
 
 License
 -------
 
-See the [LICENSE file](/LICENSE).
+See the [LICENSE file](https://github.com/lsst-sqre/ansible-cloud-packages/blob/master/LICENSE).
